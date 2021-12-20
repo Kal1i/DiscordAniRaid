@@ -3,7 +3,7 @@ import datetime
 
 
 
-client = commands.AutoShardedBot(command_prefix="!")
+client = commands.Bot(command_prefix="!")
 token = "Enter your token"
 
 @client.command()
