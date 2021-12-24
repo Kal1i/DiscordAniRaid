@@ -1,4 +1,4 @@
-# DiscordAniRaid
+# DiscordAntiRaid
 Here is a simple anti raid using discord.py
 
 When someone enters the server its checking the name of him! you can put whatever name you want and if its the name you choosed it will ban him!
